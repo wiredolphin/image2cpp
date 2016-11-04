@@ -6,7 +6,7 @@ Alternatively you can also enter a byte array as input to turn it back into an i
 
 ### Running the tool ###
 You don't need any special dependencies / internet connection; all the necessary parts sit in a single .html file. So just open this index.html page in a (recent) browser to run the tool.
-Or you can use the online version at: http://javl.github.io/image2cpp/
+Or you can use the online version at: http://wiredolphin.github.io/image2cpp/
 
 ### Example Arduino code ###
 You can find a simple Arduino example sketch [over here](https://github.com/javl/image2cpp/blob/master/oled_example/oled_example.ino) in the repository.
