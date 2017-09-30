@@ -12,4 +12,8 @@ Or you can use the online version at: https://wiredolphin.github.io/tools/image2
 You can find a simple Arduino example sketch [over here](https://github.com/javl/image2cpp/blob/master/oled_example/oled_example.ino) in the repository.
 
 ### Screen types ###
-I wrote the code with my 128x64 pixel monochrome OLED display in mind, but it should work with most similar displays. You might need to change some export settings; those are explained in the tool.
+Code is written with 128x64 pixel monochrome OLED display in mind, but it should work with most similar displays. You might need to change some export settings; those are explained in the tool.
+
+### Credit ###
+
+Initial code by [javl](https://github.com/javl) , with aditional code by [wiredolphin](https://github.com/wiredolphin). The example sketch was made by Adafruit.
